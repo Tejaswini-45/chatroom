@@ -48,17 +48,3 @@ This project is a robust chat room system built using JavaScript, Node.js, Expre
     - Robust error handling and input validation.
     - Appropriate response handling for errors (e.g., insufficient coins).
 
-## Installation
-
-### Prerequisites
-
-- Node.js
-- MySQL
-
-### Steps
-
-1. **Clone the Repository**
-
-   ```sh
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
